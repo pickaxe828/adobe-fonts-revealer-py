@@ -1,0 +1,14 @@
+// jsonc
+// Research source: https://stackoverflow.com/a/65205516/
+{
+    "paths":{
+        /* 
+        The path to the folder where the fonts are stored and will be copied from.
+        Windows: C:/Users/<your user name>/AppData/Roaming/Adobe/CoreSync/plugins/livetype/r
+        */
+        "from": "",
+
+        // The path to the folder where the fonts will stored. (It must be existing directory)
+        "to": ""
+    }
+}
