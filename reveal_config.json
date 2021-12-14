@@ -8,7 +8,10 @@
         */
         "from": "",
 
-        // The path to the folder where the fonts will stored. (It must be existing directory)
+        /* 
+        The path to the folder where the fonts will stored. (It must be an existing directory) 
+        Example: D:/Downloads/font
+        */
         "to": ""
     }
 }
