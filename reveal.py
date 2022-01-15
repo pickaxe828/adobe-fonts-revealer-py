@@ -16,7 +16,7 @@ fr = conf["paths"]["from"]
 to = conf["paths"]["to"]
 
 # Ensure the user
-print(f"Are you sure:")
+print(f"Are you sure you would want to copy font files")
 print(f"From: {fr}")
 print(f"To:   {to}")
 if input("(Y/N): ") not in ["y", "Y"]:

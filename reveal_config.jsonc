@@ -5,12 +5,13 @@
         /* 
         The path to the folder where the fonts are stored and will be copied from.
         Windows: C:/Users/<your user name>/AppData/Roaming/Adobe/CoreSync/plugins/livetype/r
+        Mac (Not tested): /Users/<your user name>/Library/Application Support/Adobe/CoreSync/plugins/livetype/.r
         */
         "from": "",
 
         /* 
         The path to the folder where the fonts will stored. (It must be an existing directory) 
-        Example: D:/Downloads/font
+        Example (Windows): C:/Downloads/font
         */
         "to": ""
     }
