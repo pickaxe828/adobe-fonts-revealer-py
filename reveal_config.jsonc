@@ -14,5 +14,10 @@
         Example (Windows): C:/Downloads/font
         */
         "to": ""
-    }
+
+        
+    },
+
+    // Logging
+    "log": false
 }
