@@ -8,7 +8,7 @@ from tqdm import tqdm
 json = JsonComment()
 
 # load reveal_config.json with json
-with open("reveal_config.json", "r") as conf_raw:
+with open("reveal_config.jsonc", "r") as conf_raw:
     conf_raw = conf_raw.read()
     conf = json.loads(conf_raw)
 
